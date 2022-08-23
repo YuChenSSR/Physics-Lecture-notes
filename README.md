@@ -1,5 +1,5 @@
 # Physics-Lecture-notes   
-from Cambridge Professor David Tong   
+Lessons from Cambridge Professor David Tong   
 Lectures on Theoretical Physics (from birth to dearth)    
     
 ## contents 
